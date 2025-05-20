@@ -1,0 +1,11 @@
+streamlit==1.24.1
+torch==2.0.1
+sentence-transformers==2.2.2
+textstat
+fitz  
+torchvision
+torchaudio
+scikit-learn
+pandas 
+docx2txt
+python-docx
